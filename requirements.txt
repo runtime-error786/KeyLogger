@@ -1,0 +1,17 @@
+pynput==1.7.3
+pyscreenshot==0.6.0
+sounddevice==0.4.3
+Pillow==9.3.0
+python-dotenv
+pyinstaller
+psutil
+PySimpleGUI
+PyFiglet
+tqdm
+cryptography
+Crypto
+pycryptodome
+numpy
+pyscreenshot
+sounddevice
+wave
